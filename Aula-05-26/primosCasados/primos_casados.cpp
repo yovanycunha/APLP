@@ -27,9 +27,9 @@ int main() {
 
     std::cin >> k;
 
-    for (int i = 1; i < k - 2; i++) {
+    for (int i = 1; i <= k - 2; i++) {
         if(isPrimosCasados(i)) {
-            std::cout << i << " " << i + 2 << endl;
+            std::cout << i << " " << i + 2 << "\n";
         }
     }
     return 0;
