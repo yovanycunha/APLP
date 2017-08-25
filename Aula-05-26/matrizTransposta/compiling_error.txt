@@ -1,3 +1,0 @@
-/home/yovanycunha/Universidade/APLP/Aula-05-26/matrizTransposta/transposta.cpp:6:1: error: expected declaration before ‘}’ token
- }
- ^
